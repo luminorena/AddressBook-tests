@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.stqa.pft.addressbook.tests.ContactAttributeTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-01-26T20:20:45" hostname="EPRUPETW0A4A" time="0.985">
+  <properties/>
+  <testcase name="testContactAddress" classname="ru.stqa.pft.addressbook.tests.ContactAttributeTests" time="0.278"/>
+  <testcase name="testContactEmail" classname="ru.stqa.pft.addressbook.tests.ContactAttributeTests" time="0.333"/>
+  <testcase name="testContactPhone" classname="ru.stqa.pft.addressbook.tests.ContactAttributeTests" time="0.373"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://localhost"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+]]></system-err>
+</testsuite>
